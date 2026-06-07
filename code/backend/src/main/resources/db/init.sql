@@ -1,0 +1,2 @@
+-- Tables are managed by Spring Data JPA. The default admin user is created
+-- during application startup with a BCrypt password.
